@@ -105,7 +105,7 @@ export default function Home() {
               About Me
               </h3>
               <p className="py-2  md:text-lg text-xl text-gray-200">
-              I was born in Minnesota, and I moved to San Jose! I am a sophomore pursuing a Bachelor’s in Computer Science & Engineering at the University of California, Merced. I was always interested in learning to code and make fun projects ever since I was young. I have learned C++, C, SQL, Java, Python, HTML/CSS, JavaScript, Tailwind, and React. Apart from Computer Science I'm interested in Hockey, Water polo, Swimming, and Video Games.
+              I was born in Minnesota, and I moved to San Jose! I am a sophomore pursuing a Bachelor’s in Computer Science & Engineering at the University of California, Merced. I was always interested in learning to code and make fun projects ever since I was young. I have learned C++, C, SQL, Java, Python, HTML/CSS, JavaScript, Tailwind, and React. Apart from Computer Science I&apos;m interested in Hockey, Water polo, Swimming, and Video Games.
               </p>
               <div className="mx-auto  w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96 rounded-3xl ">
               <img src="santacruz.jpg" layout="fill" objectFit="cover" className="relative"/>
