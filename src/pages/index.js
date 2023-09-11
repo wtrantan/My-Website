@@ -76,7 +76,7 @@ export default function Home() {
                 </div>
                 <div className="relative group">
                   <div className="absolute transition ease-in-out delay-75 group-hover:bg-gradient-to-r from-blue-600 to-purple-400 inset-0 rounded-md blur"></div>
-                    <a href="https://www.linkedin.com/in/william-trantan/" target="_blank"><AiFillLinkedin className="relative transition ease-in-out delay-75 group-hover:scale-110 group-hover:text-gray-200"/></a>
+                    <a href="https://www.linkedin.com/in/wtrantan/" target="_blank"><AiFillLinkedin className="relative transition ease-in-out delay-75 group-hover:scale-110 group-hover:text-gray-200"/></a>
                 </div>
                 <div className="relative group">
                   <div className="absolute transition ease-in-out delay-75 group-hover:bg-gradient-to-r from-pink-300 to-purple-400 group-hover:scale-110 inset-0 rounded-md blur"></div>
@@ -105,7 +105,7 @@ export default function Home() {
               About Me
               </h3>
               <p className="py-2  md:text-lg text-xl text-gray-200">
-              I was born in Minnesota, and I moved to San Jose! I am a sophomore pursuing a Bachelor’s in Computer Science & Engineering at the University of California, Merced. I was always interested in learning to code and make fun projects ever since I was young. I have learned C++, C, SQL, Java, Python, HTML/CSS, JavaScript, Tailwind, and React. Apart from Computer Science I&apos;m interested in Hockey, Water polo, Swimming, and Video Games.
+              I was born in Minnesota, and I moved to San Jose! I am a junior pursuing a Bachelor’s in Computer Science & Engineering at the University of California, Merced. I was always interested in learning to code and make fun projects ever since I was young. I have experience in C++, C, SQL, Java, Python, HTML/CSS, JavaScript, Tailwind, and React. Apart from Computer Science I&apos;m interested in Hockey, Water polo, Swimming, and Video Games.
               </p>
               <div className="mx-auto  w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96 rounded-3xl ">
               <img src="santacruz.jpg" layout="fill" objectFit="cover" className="relative"/>
