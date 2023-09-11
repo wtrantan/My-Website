@@ -76,7 +76,7 @@ export default function Home() {
                 </div>
                 <div className="relative group">
                   <div className="absolute transition ease-in-out delay-75 group-hover:bg-gradient-to-r from-blue-600 to-purple-400 inset-0 rounded-md blur"></div>
-                    <a href="https://www.linkedin.com/in/william-trantan/" target="_blank"><AiFillLinkedin className="relative transition ease-in-out delay-75 group-hover:scale-110 group-hover:text-gray-200"/></a>
+                    <a href="https://www.linkedin.com/in/wtrantan/" target="_blank"><AiFillLinkedin className="relative transition ease-in-out delay-75 group-hover:scale-110 group-hover:text-gray-200"/></a>
                 </div>
                 <div className="relative group">
                   <div className="absolute transition ease-in-out delay-75 group-hover:bg-gradient-to-r from-pink-300 to-purple-400 group-hover:scale-110 inset-0 rounded-md blur"></div>
