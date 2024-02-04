@@ -34,9 +34,9 @@ export default function Home() {
        <div className="bg-mount2 bg-fixed bg-bottom"> 
         
           <div className=" min-h-screen bg-mount1 items-center bg-no-repeat bg-cover ">
-          <nav className=" py-10 p-10 pl-10 mb-12 flex justify-between text-white">
+          <nav className="flex text-white">
             <h1 className="font-burtons text-xl">My Portfolio Website</h1>
-            <ul className=" px-10 flex items-center top-0 right-0 fixed m-10">
+            <ul className="  flex items-center top-0 right-0 fixed m-10">
 
             <li className=" group"><Link to="home" spy={true} smooth={true} offset={0} duration={700} className="transition ease-in-out
                group-hover:scale-110 delay-75 bg-gray-800
@@ -86,7 +86,7 @@ export default function Home() {
             
             
             <div className="mx-auto bg-gradient-to-r from-orange-500 to-purple-400 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
-            <img src="mirror-rm.png" layout="fill" objectFit="cover" className="relative"/>
+            <img src="pfp.jpg" layout="fill" objectFit="cover" className="relative"/>
             
             </div>
   
@@ -108,7 +108,7 @@ export default function Home() {
               I was born in Minnesota, and I moved to San Jose! I am a junior pursuing a Bachelor’s in Computer Science & Engineering at the University of California, Merced. I was always interested in learning to code and make fun projects ever since I was young. I have experience in C++, C, SQL, Java, Python, HTML/CSS, JavaScript, Tailwind, and React. Apart from Computer Science I&apos;m interested in Hockey, Water polo, Swimming, and Video Games.
               </p>
               <div className="mx-auto  w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96 rounded-3xl ">
-              <img src="santacruz.jpg" layout="fill" objectFit="cover" className="relative"/>
+              <img src="me.jpg" layout="fill" objectFit="cover" className="relative"/>
               </div>
               <div className="relative group  pt-10">
               <a className="  transition ease-in-out group-hover:scale-110 delay-75 group-hover:bg-gray-200 text-white bg-gray-800 group-hover:text-gray-700 px-4 py-2 border-none rounded-md "
